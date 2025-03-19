@@ -1,0 +1,11 @@
+baseURL = "https://xSteep.github.io/my-cv/"
+languageCode = "en-us"
+title = "Мое резюме"
+theme = "hugo-resume"
+
+[params]
+  name = "Иван Иванов"
+  title = "Разработчик ПО"
+  email = "ivan@example.com"
+  phone = "+7 123 456 78 90"
+  address = "Москва, Россия"
